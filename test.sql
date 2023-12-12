@@ -10,3 +10,16 @@ CREATE TABLE table_name(
 
 
 select * from table_name;
+
+
+https://github.com/sudhanshukumartech/sql/blob/main/test.sql
+https://github.com/sudhanshukumartech/sql/blob/main/test.sql
+https://github.com/sudhanshukumartech/sql/blob/main/test.sql
+v
+https://github.com/sudhanshukumartech/sql/blob/main/test.sql
+v
+v
+https://github.com/sudhanshukumartech/sql/blob/main/test.sql
+https://github.com/sudhanshukumartech/sql/blob/main/test.sql
+https://github.com/sudhanshukumartech/sql/blob/main/test.sql
+https://github.com/sudhanshukumartech/sql/blob/main/test.sql
